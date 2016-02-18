@@ -1,0 +1,10 @@
+{
+  "name":"clockworkgeek/magento-guest-cookies",
+  "type":"magento-module",
+  "license":"OSL-3.0",
+  "homepage":"https://github.com/clockworkgeek/Magento-Guest-Cookies",
+  "description":"",
+  "require":{
+      "magento-hackathon/magento-composer-installer":"*",
+  }
+}

@@ -1,0 +1,4 @@
+# Magento-Guest-Cookies
+app/etc/modules/Clockworkgeek_Guestcookies.xml	app/etc/modules/Clockworkgeek_Guestcookies.xml
+app/code/community/Clockworkgeek/Guestcookies   app/code/community/Clockworkgeek/Guestcookies
+app/locale/en_US/Clockworkgeek_Guestcookies.csv app/locale/en_US/Clockworkgeek_Guestcookies.csv
