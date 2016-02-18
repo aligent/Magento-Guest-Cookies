@@ -5,6 +5,6 @@
   "homepage":"https://github.com/clockworkgeek/Magento-Guest-Cookies",
   "description":"",
   "require":{
-      "magento-hackathon/magento-composer-installer":"*",
+      "magento-hackathon/magento-composer-installer":"*"
   }
 }
